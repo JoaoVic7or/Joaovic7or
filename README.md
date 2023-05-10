@@ -2,7 +2,7 @@
 
 ## About Me
 <a href='https://www.linkedin.com/in/jo%C3%A3o-victor-de-assis-236957131/'>
-  <img src='https://img.shields.io/badge/-João_Victor-blue?style=flat&logo=Linkedin&logoColor=white' alt='linkedin'/>
+  <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'/>
 </a>
 
 ## 💻 Tech Stack:
