@@ -1,7 +1,7 @@
 # Hey! I'm João Victor!
 
 ## About Me
-<p>I'm a junior front-end developer who is currently studying to become a full-stack developer</p>
+<p>Sou um desenvolvedor com experiência em React, JavaScript, TypeScript, C# e .NET. Atualmente, estou atuando como estagiário de TI, onde utilizo C# e .NET para auxiliar no desenvolvimento de novos aplicativos web e desktop.</p>
 <a href="https://joaochacon.dev" target="_blank">Portfolio</a>
 
 ## 💻 Tech Stack:
