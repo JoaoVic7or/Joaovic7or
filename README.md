@@ -9,5 +9,5 @@ I'm always open to collaborating on exciting projects, sharing knowledge, or sim
 </br>
 
 <div align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoVic7or&theme=dark&hide_border=false)<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVic7or&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </div>
